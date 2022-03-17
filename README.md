@@ -2,7 +2,7 @@
 Bomb your friends whatsapp using this simple script
 
 
-Steps
+Steps:
 
 1) Install pyautogui using this command 
 
