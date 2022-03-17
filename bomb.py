@@ -3,7 +3,7 @@ import random
 import pyautogui as pg
 import time
 
-animal = ('Dog', 'Monkey', 'Cow', 'Buffalow' , 'Elephant', 'Donkey', 'Cat' )
+animal = ('Dog', 'Monkey', 'Cow', 'Buffalow' , 'Elephant', 'Donkey', 'Cat', 'Snake','Dinosaur','Hippo' )
 
 
 for i in range (1,1000):
